@@ -1,0 +1,11 @@
+<< git 명령어 기본 >>
+
+git init
+
+git add .
+git commit -m "first commit"
+
+git remote add origin https://github.com/MJLee39/test01.git
+
+git branch -M main
+git push -u origin main
